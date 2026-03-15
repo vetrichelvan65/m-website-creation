@@ -64,18 +64,18 @@ Website for my web development company
             <div class="portfolio-grid">
                 <div class="portfolio-item">
                     <div class="portfolio-placeholder">Project 1</div>
-                    <h3>Project Title</h3>
-                    <p>Description of your project and what you accomplished.</p>
+                    <h3>Resturant sector</h3>
+                    <p>we made a attractive web page for the clients and increased their customer counts 50 percent then previous.</p>
                 </div>
                 <div class="portfolio-item">
                     <div class="portfolio-placeholder">Project 2</div>
-                    <h3>Project Title</h3>
-                    <p>Description of your project and what you accomplished.</p>
+                    <h3>Banking sectors</h3>
+                    <p>we make the data security and assurance for the bank documents and customer data.</p>
                 </div>
                 <div class="portfolio-item">
                     <div class="portfolio-placeholder">Project 3</div>
-                    <h3>Project Title</h3>
-                    <p>Description of your project and what you accomplished.</p>
+                    <h3>lotter</h3>
+                    <p>we created detailed version for customer bar code scaning and giving results function.</p>
                 </div>
             </div>
         </div>
