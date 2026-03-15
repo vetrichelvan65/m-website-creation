@@ -456,3 +456,48 @@ document.querySelector('.cta-button').addEventListener('click', function() {
 
 // Mobile menu toggle (optional - for future expansion)
 console.log('Website loaded successfully!');
+
+# M Website Creation
+
+Professional web development company website built with HTML, CSS, and JavaScript.
+
+## Features
+
+- Responsive design that works on all devices
+- Smooth navigation and scrolling
+- Services showcase section
+- Portfolio/project display
+- Contact form
+- Modern styling with gradient effects
+
+## Getting Started
+
+1. Clone this repository
+2. Open `index.html` in your web browser
+3. Customize the content with your own information
+
+## Customization
+
+- **Colors**: Edit the CSS variables in `style.css` (lines 7-13)
+- **Content**: Update text in `index.html`
+- **Projects**: Add your portfolio items in the portfolio section
+- **Contact Form**: Integrate with a backend service for email functionality
+
+## Deployment
+
+This site is ready to be deployed on GitHub Pages:
+
+1. Go to repository Settings
+2. Scroll to "GitHub Pages"
+3. Select "main" branch as source
+4. Your site will be live at `https://yourusername.github.io/m-website-creation`
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## License
+
+This project is open source and available under the MIT License.
